@@ -1,0 +1,4 @@
+Main.class
+inherit/NormalMember.class
+inherit/VIPMember.class
+inherit/Base.class
